@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alexander/SimSpark/spark/utility/libb64/base64.cc
+encode.h
+/home/alexander/SimSpark/spark/utility/libb64/encode.h
+decode.h
+/home/alexander/SimSpark/spark/utility/libb64/decode.h
+iostream
+-
+fstream
+-
+string
+-
+stdlib.h
+-
+
+/home/alexander/SimSpark/spark/utility/libb64/cdecode.h
+
+/home/alexander/SimSpark/spark/utility/libb64/cencode.h
+
+/home/alexander/SimSpark/spark/utility/libb64/decode.h
+iostream
+-
+cdecode.h
+/home/alexander/SimSpark/spark/utility/libb64/cdecode.h
+
+/home/alexander/SimSpark/spark/utility/libb64/encode.h
+iostream
+-
+sstream
+-
+cencode.h
+/home/alexander/SimSpark/spark/utility/libb64/cencode.h
+

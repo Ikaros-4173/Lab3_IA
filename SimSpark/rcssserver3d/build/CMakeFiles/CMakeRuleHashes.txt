@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+e67c510b17ed27fa265feffe5089722b CMakeFiles/uninstall
+ad5b8eff6406db2cca7e4492d4ae80bc doc/CMakeFiles/comment
+7ea6f2d93c57146be6174a2b9427a2f5 doc/users/CMakeFiles/pdfcomment
+c9709f91a2505dc3786189ce0c928b84 guiplugin/soccercontrolframe/moc_soccercontrolframe.cxx
+2d4ba952e3db9fead9fb08d90cebf953 guiplugin/soccercontrolframe/ui_soccercontrolframe.h
